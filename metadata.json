@@ -1,0 +1,6 @@
+{
+  "name": "Isaac Mod Porter",
+  "description": "Port The Binding of Isaac: Repentance PC mods to Android port with Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
